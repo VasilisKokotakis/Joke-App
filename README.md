@@ -21,7 +21,7 @@ It even makes you wait 5 seconds for the punchline, like a true comedian. 🎤
 1. Clone this repo:
    ```bash
    git clone https://github.com/VasilisKokotakis/Joke-App.git
-   cd Joke-App
+   cd Joke_App
 
 
 2. Install dependencies:
