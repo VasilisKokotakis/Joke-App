@@ -86,5 +86,8 @@ Pull requests are always welcome 😏
 
 ---
 
-Made with ❤️ by **Vasilis Kokotakis**
+## License
+
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+
 
