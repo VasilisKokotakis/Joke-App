@@ -1,4 +1,4 @@
-# 😂 Daily Joke App
+# Daily Joke App
 
 Tired of bugs in your code?
 Need a quick laugh before you throw your laptop out the window?
@@ -8,7 +8,7 @@ It’s basically a stand-up comedian in Python. 🎤
 
 ---
 
-## ✨ Features
+## Features
 
 * 🃏 **Random Jokes** - straight from the Official Joke API.
 * 🎭 **Smooth Punchline Reveal** - fades in dramatically like a pro comedian.
@@ -19,7 +19,7 @@ It’s basically a stand-up comedian in Python. 🎤
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone this repo:
 
@@ -50,14 +50,14 @@ It’s basically a stand-up comedian in Python. 🎤
 
 ---
 
-## 📂 Saved Jokes
+## Saved Jokes
 
 Every time you hit **💾 Save Joke**, your current joke is appended to `saved_jokes.txt`.
 Slowly but surely, you’ll build your **personal comedy archive**, one laugh at a time. 😆
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 * **Python 3**
 * **ttkbootstrap** for the modern UI
@@ -65,14 +65,14 @@ Slowly but surely, you’ll build your **personal comedy archive**, one laugh at
 
 ---
 
-## 🎯 Why?
+## Why?
 
 Because debugging is hard.
 Laughing is easy. 😌
 
 ---
 
-## 🤝 Contribute
+## Contribute
 
 Got ideas?
 Add dark mode auto-detection, new joke sources, or even a **roast-me** button.
