@@ -4,18 +4,18 @@ Tired of bugs in your code?
 Need a quick laugh before you throw your laptop out the window?
 
 Look no further. This little app serves you **fresh random jokes** with style smooth animations, modern UI, and even a save feature for your favorites.
-It’s basically a stand-up comedian in Python. 🎤
+It’s basically a stand-up comedian in Python. 
 
 ---
 
 ## Features
 
-* 🃏 **Random Jokes** - straight from the Official Joke API.
-* 🎭 **Smooth Punchline Reveal** - fades in dramatically like a pro comedian.
-* 💾 **Save Your Favorites** - every saved joke lands in `saved_jokes.txt`.
-* 🔔 **Toasts for Feedback** - sleek pop-ups tell you when jokes are saved or missing.
-* 🎨 **Modern UI** - built with `ttkbootstrap` and a fresh `"superhero"` theme.
-* 🌈 **Compact & Cross-Platform** - runs anywhere Python does.
+*  **Random Jokes** - straight from the Official Joke API.
+*  **Smooth Punchline Reveal** - fades in dramatically like a pro comedian.
+*  **Save Your Favorites** - every saved joke lands in `saved_jokes.txt`.
+*  **Toasts for Feedback** - sleek pop-ups tell you when jokes are saved or missing.
+*  **Modern UI** - built with `ttkbootstrap` and a fresh `"superhero"` theme.
+*  **Compact & Cross-Platform** - runs anywhere Python does.
 
 ---
 
@@ -52,8 +52,8 @@ It’s basically a stand-up comedian in Python. 🎤
 
 ## Saved Jokes
 
-Every time you hit **💾 Save Joke**, your current joke is appended to `saved_jokes.txt`.
-Slowly but surely, you’ll build your **personal comedy archive**, one laugh at a time. 😆
+Every time you hit **Save Joke**, your current joke is appended to `saved_jokes.txt`.
+Slowly but surely, you’ll build your **personal comedy archive**, one laugh at a time. 
 
 ---
 
@@ -68,7 +68,7 @@ Slowly but surely, you’ll build your **personal comedy archive**, one laugh at
 ## Why?
 
 Because debugging is hard.
-Laughing is easy. 😌
+Laughing is easy.
 
 ---
 
@@ -76,11 +76,11 @@ Laughing is easy. 😌
 
 Got ideas?
 Add dark mode auto-detection, new joke sources, or even a **roast-me** button.
-Pull requests are always welcome 😏
+Pull requests are always welcome 
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 <img width="518" height="384" alt="image" src="https://github.com/user-attachments/assets/f38330f3-12dd-4313-acd8-17b64a65d10b" />
 
